@@ -50,7 +50,7 @@ services:
           #   - deps/
         # - action: rebuild
         #   path: package.json
-    deploy:The AI Spiritual Battle Angelic AI vs Zombie AI
+    deploy:
         reservations:
           devices:
           - capabilities: ["utility"]
